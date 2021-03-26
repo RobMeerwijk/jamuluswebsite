@@ -150,7 +150,7 @@ _More testing required._
 
 **macOS**: Should work great.
 
-**Linux**: Not tested, but should work great.
+**Linux**: Works great, tested with Raspberry4 buster, latest realtime kernel
 
 ***
 
